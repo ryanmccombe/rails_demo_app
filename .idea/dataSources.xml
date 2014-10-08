@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3697068692">
+    <data-source source="LOCAL" name="Rails demo_app: development" uuid="eadbcefd-5f6a-41fa-87fd-8bcf80149309">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/demo_app</jdbc-url>
+      <user-name>Ryan</user-name>
+      <user-password>dfc1dfcbdfc7dfdadfc8dfc3dfc6dfc6df98dfc2</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
